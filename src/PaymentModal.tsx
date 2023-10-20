@@ -230,12 +230,7 @@ export const PaymentModal: React.FC<{
               </div>
             ))}
 
-            <Button
-              href="https://fiveletters.gumroad.com/l/yjxbev?wanted=true"
-              data-gumroad-single-product="true"
-            >
-              {translations.getPremiumButtonText}
-            </Button>
+    
             <div style={{ fontSize: 16 }}>
               <button
                 onClick={() => {

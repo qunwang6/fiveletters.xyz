@@ -210,39 +210,9 @@ export const SettingsModal: React.FC<{
                 that you guessed are correct.
               </div>
 
-              <div style={{ paddingRight: 8 }}>
-                If you like this game, you should also check out{" "}
-                <a
-                  href="https://en.wikipedia.org/wiki/Lingo_(American_game_show)"
-                  style={{ color: colors.black }}
-                >
-                  Lingo (game show)
-                </a>{" "}
-                and{" "}
-                <a
-                  href="https://www.powerlanguage.co.uk/wordle/"
-                  style={{ color: colors.black }}
-                >
-                  Wordle
-                </a>
-                .
-              </div>
 
-              <div style={{ marginTop: 32 }}>
-                <a
-                  href="https://github.com/sigvef/fiveletters.xyz"
-                  style={{
-                    color: colors.black,
-                    display: "flex",
-                    alignItems: "center",
-                  }}
-                >
-                  <MarkGithubIcon size={24} />
-                  <div style={{ marginLeft: 8 }}>
-                    Follow development on GitHub.
-                  </div>
-                </a>
-              </div>
+
+
             </>
           )}
         </>

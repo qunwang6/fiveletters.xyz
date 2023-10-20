@@ -45,11 +45,11 @@ const translationsMap = {
     sellingPoints: [
       {
         text: "No extra features",
-        sub: "All features that would have been in the premium version are already available for\xA0free!",
+        sub: "",
       },
       {
         text: "Support development",
-        sub: "If you like Five Letters, please consider splurging on Five Letters Premium. It helps support the continued development of new features :)",
+        sub: "",
       },
     ],
   },

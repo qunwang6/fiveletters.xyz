@@ -8,7 +8,7 @@ import { isSuperTinyMobileScreen } from "./utils";
 
 const translationsMap = {
   no: {
-    getPremiumButtonText: "Aktiver",
+    getPremiumButtonText: "",
     year: "år",
     invalidLicenseKey: "Ugyldig lisensenøkkel.",
     pasteTheLicenseKey:
@@ -31,7 +31,7 @@ const translationsMap = {
     ],
   },
   en: {
-    getPremiumButtonText: "Get Premium",
+    getPremiumButtonText: "",
     year: "year",
     invalidLicenseKey: "Invalid license key.",
     pasteTheLicenseKey:
